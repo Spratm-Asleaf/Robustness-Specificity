@@ -1,5 +1,3 @@
-> @Author: WANG Shixiong (Email: <s.wang@u.nus.edu>; <wsx.gugo@gmail.com>),
-> 
 > @Author: LI   Xinke    (Email: <xinke.li@u.nus.edu>),
 > 
 > @Author: WANG Haowei   (Email: <haowei_wang@u.nus.edu>)
