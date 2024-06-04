@@ -1,6 +1,8 @@
-> @Authors: WANG Shixiong (Email: <s.wang@u.nus.edu>; <wsx.gugo@gmail.com>), 
-> LI   Xinke    (Email: <xinke.li@u.nus.edu>),
-> WANG Haowei   (Email: <haowei_wang@u.nus.edu>)
+> @Author: WANG Shixiong (Email: <s.wang@u.nus.edu>; <wsx.gugo@gmail.com>),
+> 
+> @Author: LI   Xinke    (Email: <xinke.li@u.nus.edu>),
+> 
+> @Author: WANG Haowei   (Email: <haowei_wang@u.nus.edu>)
 
 > @Affiliate: Department of Industrial Systems Engineering and Management, National University of Singapore 
 
