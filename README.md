@@ -1,6 +1,6 @@
-> @Author: LI   Xinke    (Email: <xinke.li@u.nus.edu>),
+> @Author: [Dr. Xinke Li](https://shinke-li.github.io/)    (Email: <xinke.li@u.nus.edu>),
 > 
-> @Author: WANG Haowei   (Email: <haowei_wang@u.nus.edu>)
+> @Author: [Dr. Haowei Wang](https://haowei-wang.github.io/)   (Email: <haowei_wang@u.nus.edu>)
 
 > @Affiliate: Department of Industrial Systems Engineering and Management, National University of Singapore 
 
@@ -20,7 +20,9 @@ From the Department of Industrial Systems Engineering and Management, National U
    
 ***Codes***
 
-- To be released later.
+- "Linear Model: BDR Support Vector Machine" is maintained by [Dr. Haowei Wang](https://github.com/Haowei-Wang)
+
+- "Deep Learning Model: BDR Learning" is maintained by [Dr. Xinke Li](https://github.com/shinke-li)
 
 ***Warrant***
 
