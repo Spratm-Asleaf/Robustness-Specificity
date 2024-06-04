@@ -4,7 +4,7 @@
 
 > @Affiliate: Department of Industrial Systems Engineering and Management, National University of Singapore 
 
-> @Date: 
+> @Date: 4 June 2024
 
 > Python Version: 
 
@@ -20,9 +20,9 @@ From the Department of Industrial Systems Engineering and Management, National U
    
 ***Codes***
 
-- "Linear Model: BDR Support Vector Machine" is maintained by [Dr. Haowei Wang](https://github.com/Haowei-Wang)
+- The sub-project "Linear Model: BDR Support Vector Machine" is maintained by [Dr. Haowei Wang](https://github.com/Haowei-Wang)
 
-- "Deep Learning Model: BDR Learning" is maintained by [Dr. Xinke Li](https://github.com/shinke-li)
+- The sub-project "Deep Learning Model: BDR Learning" is maintained by [Dr. Xinke Li](https://github.com/shinke-li)
 
 ***Warrant***
 
