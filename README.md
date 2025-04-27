@@ -8,8 +8,6 @@
 
 > @Date: 4 June 2024
 
-> Python Version: 
-
 # Robustness-Specificity: Learning Against Distributional Uncertainty: On the Trade-off Between Robustness and Specificity
 
 Online supplementary materials of the paper titled 
