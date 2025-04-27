@@ -4,7 +4,7 @@
 > 
 > @Author: [Dr. Shixiong Wang](https://bear-wangsx.github.io/)   (Email: <s.wang@u.nus.edu>)
 
-> @Affiliate: Department of Industrial Systems Engineering and Management, National University of Singapore 
+> @Affiliate: Department of Industrial Systems Engineering and Management and Institute of Data Science, National University of Singapore, Singapore
 
 > @Date: 4 June 2024
 
