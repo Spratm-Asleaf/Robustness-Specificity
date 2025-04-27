@@ -22,7 +22,7 @@ From the Department of Industrial Systems Engineering and Management, National U
    
 ***Codes***
 
-- The file "Generate_Fig_1.m" generates Figure 1 in the paper.
+- The file "Generate_Fig_1.m" generates Figure 1 in the paper, maintained by [Dr. Shixiong Wang](https://github.com/Spratm-Asleaf).
 
 - The sub-project "Deep Learning Model: BDR Learning" is maintained by [Dr. Xinke Li](https://github.com/shinke-li)
 
