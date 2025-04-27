@@ -1,6 +1,8 @@
 > @Author: [Dr. Xinke Li](https://shinke-li.github.io/)    (Email: <xinke.li@u.nus.edu>),
 > 
 > @Author: [Dr. Haowei Wang](https://haowei-wang.github.io/)   (Email: <haowei_wang@u.nus.edu>)
+> 
+> @Author: [Dr. Shixiong Wang](https://bear-wangsx.github.io/)   (Email: <s.wang@u.nus.edu>)
 
 > @Affiliate: Department of Industrial Systems Engineering and Management, National University of Singapore 
 
