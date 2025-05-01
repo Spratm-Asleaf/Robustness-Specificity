@@ -14,7 +14,7 @@ Online supplementary materials of the paper titled
 
 **Learning Against Distributional Uncertainty: On the Trade-off Between Robustness and Specificity**
 
-Published in the _IEEE Journal of Selected Topics in Signal Processing_ (DOI: [TBA])
+Published in the _IEEE Journal of Selected Topics in Signal Processing_ (DOI: [10.1109/JSTSP.2025.3567002](https://doi.org/10.1109/JSTSP.2025.3567002))
    
 By Shixiong Wang, Haowei Wang, Xinke Li, and Jean Honorio
 
